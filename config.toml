@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://posquit0.com" #without ending slash
 languageCode = "en-us"
-title = "Byungjin Park | Software Architect & Security Expert"
+title = "Seongwook Yoon | Student"
 theme = "hugo-identity-theme"
 themesDir = "./themes"
 
@@ -41,10 +41,10 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = "Byungjin Park"
+    name = "Seongwook Yoon"
     # Avatars can be written to images/avatars/
     avatar = "./profile.png"
-    position = "Software Architect"
+    position = "student"
     livesIn = "[Seoul, Korea](https://www.google.co.kr/maps/place/서울특별시/)"
     scope = [
         "Love DevOps to automate all of things!",
